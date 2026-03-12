@@ -17,11 +17,9 @@ Sl .no	Apparatus	Range	Type	Quantity
 Fuse rating calculation for field and armature:
 
 No load test
-
 10 % of rated current (full load current)
 
 Load test
-
 125 % of rated current (full load current)
 
 Precautions
@@ -38,7 +36,6 @@ Procedure
 5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Procedure for Load test:
-
 1.   Connections are given as per the circuit diagram
 2.   The prime mover is started with the help of three point starter and it is made to run at rated speed when the generator is disconnected from the load by DPST switch 2.
 3.   By varying the generator field rheostat gradually, the rated voltage [Eg] is obtained.
@@ -71,13 +68,6 @@ Open circuit characteristics
 Load Characteristics:
  <img width="1920" height="1080" alt="Screenshot 2026-03-11 135036" src="https://github.com/user-attachments/assets/2284155a-771d-43d1-82fe-0bef95c1e893" />
 <img width="1723" height="549" alt="Screenshot 2026-03-11 135110" src="https://github.com/user-attachments/assets/df5b72ac-6a98-4cca-867d-308a42b3175a" />
-
 <img width="721" height="1280" alt="image" src="https://github.com/user-attachments/assets/0724b8b0-5b24-4b01-8b3f-fade8f0bcbc5" />
-
-
-
-
-
-
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
