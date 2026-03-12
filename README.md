@@ -5,7 +5,6 @@ Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
 Apparatus Required:
-
 Sl .no	Apparatus	Range	Type	Quantity
 1	Volt meter	(0-300)V	MC	1
 2	Ammeter	(0-2.5)A	MC	1
@@ -23,7 +22,6 @@ Load test
 125 % of rated current (full load current)
 
 Precautions
-
 1.   Motor side field rheostat should be kept at minimum resistance position.
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
@@ -58,16 +56,15 @@ For Load circuit
 <img width="1128" height="611" alt="image" src="https://github.com/user-attachments/assets/bc388446-c8ce-4029-8cc3-b7f3b30ef49c" />
 
 Calculation: 
-
 Open circuit characteristics
 <img width="1920" height="1080" alt="Screenshot 2026-03-11 135611" src="https://github.com/user-attachments/assets/9319a36f-1bbf-4563-9f5c-46b3eaeeb99f" />
 <img width="1322" height="413" alt="Screenshot 2026-03-11 135631" src="https://github.com/user-attachments/assets/5c80a63e-90a2-4ce3-bd9c-b2d376a56c6c" />
-
-<img width="721" height="1280" alt="image" src="https://github.com/user-attachments/assets/7dc69172-f480-4f32-b025-bd500509508e" />
+<img width="902" height="1280" alt="image" src="https://github.com/user-attachments/assets/dac18782-b476-4bd8-843c-2a27ef78bf34" />
 
 Load Characteristics:
  <img width="1920" height="1080" alt="Screenshot 2026-03-11 135036" src="https://github.com/user-attachments/assets/2284155a-771d-43d1-82fe-0bef95c1e893" />
 <img width="1723" height="549" alt="Screenshot 2026-03-11 135110" src="https://github.com/user-attachments/assets/df5b72ac-6a98-4cca-867d-308a42b3175a" />
-<img width="721" height="1280" alt="image" src="https://github.com/user-attachments/assets/0724b8b0-5b24-4b01-8b3f-fade8f0bcbc5" />
+<img width="742" height="1280" alt="image" src="https://github.com/user-attachments/assets/7a0234ba-9477-41db-b001-b06256ce37e2" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
